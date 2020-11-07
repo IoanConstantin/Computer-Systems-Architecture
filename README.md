@@ -1,5 +1,5 @@
 # Computer-Systems-Architecture
-# CODE OPTIMIZATION
+# Code Optimization
 
 A. Descrierea implementarii:
 ---------------------------------
